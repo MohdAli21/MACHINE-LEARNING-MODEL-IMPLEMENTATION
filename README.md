@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#### **Machine Learning Model Implementation**
+# **Machine Learning Model Implementation**
 
 #### **Overview**  
 This task focuses on implementing a **machine learning predictive model** using **Scikit-Learn** to classify or predict outcomes based on a dataset. The objective is to apply **data science and machine learning techniques** to extract meaningful insights and make accurate predictions. For this task, a **student performance dataset** has been used to predict final grades based on various influencing factors.  
