@@ -78,4 +78,5 @@ This task provides **practical experience in machine learning, data analysis, an
 
  # ***This histogram shows the distribution of final grades (G3) among students, helping identify common grade ranges and overall performance trends.***
 
+<img width="457" alt="Image" src="https://github.com/user-attachments/assets/872abd5c-5582-4430-857c-97b5a05233cc" />
  
