@@ -76,3 +76,6 @@ This **student performance prediction model** has real-world applications, such 
 
 This task provides **practical experience in machine learning, data analysis, and model deployment**, making it highly valuable for those interested in data science and artificial intelligence.  
 
+ # ***This histogram shows the distribution of final grades (G3) among students, helping identify common grade ranges and overall performance trends.***
+
+ 
